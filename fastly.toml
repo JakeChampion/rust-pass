@@ -6,7 +6,7 @@ description = ""
 language = "rust"
 manifest_version = 2
 name = "rust-2"
-service_id = "8n4xfJA1NcGweAnrFMmLh4"
+service_id = ""
 
 [local_server]
 
